@@ -1,0 +1,17 @@
+D:\Local Repository\Day 2\OnlineShopping\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\Local Repository\Day 2\OnlineShopping\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repository\Day 2\OnlineShopping\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\Local Repository\Day 2\OnlineShopping\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\Local Repository\Day 2\OnlineShopping\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\Local Repository\Day 2\OnlineShopping\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\Local Repository\Day 2\OnlineShopping\BLL\bin\Debug\net7.0\BLL.dll
+D:\Local Repository\Day 2\OnlineShopping\BLL\bin\Debug\net7.0\BLL.pdb
+D:\Local Repository\Day 2\OnlineShopping\BLL\bin\Debug\net7.0\BOL.dll
+D:\Local Repository\Day 2\OnlineShopping\BLL\bin\Debug\net7.0\DAL.dll
+D:\Local Repository\Day 2\OnlineShopping\BLL\bin\Debug\net7.0\BOL.pdb
+D:\Local Repository\Day 2\OnlineShopping\BLL\bin\Debug\net7.0\DAL.pdb
+D:\Local Repository\Day 2\OnlineShopping\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\Local Repository\Day 2\OnlineShopping\BLL\obj\Debug\net7.0\BLL.dll
+D:\Local Repository\Day 2\OnlineShopping\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\Local Repository\Day 2\OnlineShopping\BLL\obj\Debug\net7.0\BLL.pdb
+D:\Local Repository\Day 2\OnlineShopping\BLL\obj\Debug\net7.0\ref\BLL.dll

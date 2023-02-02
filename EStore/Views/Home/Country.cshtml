@@ -1,0 +1,12 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Countries Page";
+}
+<h1>Countries</h1>
+@{
+    List<Country> countries = ViewBag.nations as List<Country>;
+    foreach(Country c in countries)
+    {
+        <li>@c.Id @c.Name</li>
+    }
+}

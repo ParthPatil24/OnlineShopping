@@ -1,0 +1,19 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+@{
+    Product product=ViewBag.currentProduct as Product;
+
+        <h3>Rapid Fire Gun</h3>
+        <hr/>
+        <p>Id:@product.Id</p>
+        <p>Title:@product.Title</p>
+        <p>Description:@product.Description</p>
+        <p>Unit Price:@product.Price Rs</p>
+        <p>Stock Available:@product.Stock</p>
+
+        <a href="/shoppingcart/addtocart/@product.Id">Add to Cart</a>
+}
+

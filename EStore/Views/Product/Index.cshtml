@@ -1,0 +1,11 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Product page";
+}
+
+@{
+    List<Product> products = ViewData["products"] as List<Product>;
+    foreach(Product prod in products){
+        <li><a href="/product/details/@prod.Id">@prod.Title</a></li>
+    }
+}
